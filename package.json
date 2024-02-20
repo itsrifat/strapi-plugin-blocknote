@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-blocknote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BlockNote editor plugin for Strapi",
   "license": "MIT",
   "author": {
