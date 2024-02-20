@@ -1,6 +1,6 @@
 # Strapi plugin BlockNote
 
-Strapi plugin to replace the default markdown editor with BlockNote wysiwyg editor.
+[Strapi](https://strapi.io) plugin to replace the default markdown editor with [BlockNote](https://www.blocknotejs.org/) wysiwyg editor.
 
 ## Todo
 
