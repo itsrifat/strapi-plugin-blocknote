@@ -1,0 +1,27 @@
+.bn-container .bn-editor {
+  --bn-colors-editor-background: #212134;
+  --bn-colors-editor-text: #ffffff;
+  /*--bn-colors-disabled-text: #212134;*/
+  /*--bn-colors-border: #4a4a6a;*/
+  /*--bn-colors-side-menu: #CFCFCF;*/
+
+  /*--bn-colors-menu-background: #FFFFFF;*/
+  /*--bn-colors-tooltip-text: #FFFFFF;*/
+  /*--bn-colors-tooltip-background: #212134;*/
+  /*--bn-colors-hovered-text: #212134;*/
+  /*--bn-colors-hovered-background: #EFEFEF;*/
+  /*--bn-colors-selected-text: #FFFFFF;*/
+  /*--bn-colors-selected-background: #212134;*/
+  /*--bn-colors-disabled-text: #AFAFAF;*/
+  /*--bn-colors-disabled-background: #EFEFEF;*/
+
+  /*--bn-colors-shadow: #CFCFCF;*/
+}
+
+.bn-container .bn-editor strong {
+  font-weight: bold;
+}
+
+.bn-container .bn-editor em {
+  font-style: italic;
+}
